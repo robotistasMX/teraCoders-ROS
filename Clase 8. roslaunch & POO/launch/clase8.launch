@@ -1,0 +1,4 @@
+<launch> 
+    <node name="cuadrado_servidor" pkg="clase8" type="CuadradoServer.py" />
+    <node name="main" pkg="clase8" type="mian.py" />
+</launch> 
